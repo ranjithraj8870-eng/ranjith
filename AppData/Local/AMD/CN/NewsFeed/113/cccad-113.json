@@ -1,0 +1,112 @@
+[
+  {
+    "id": "Feedback",
+    "title": "Your feedback is important to us!",
+    "lnk": "https://www.feedback.amd.com/se/5A1E27D2730E4A45",
+    "tag": "desktop;radeon;child;commercial;rsx_howto",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/FeedbackAdrenalin_BG_2200x900.png",
+    "logo_img": "https://download.amd.com/cccads/images/FeedbackAdrenalin_banner_900x600.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "Solidworks",
+    "title": "Pro Edition provides the right balance of performance and reliability. Click to learn more",
+    "lnk": "https://www.amd.com/en/graphics/workstation-design-and-manufacturing-solutions-solidworks",
+    "tag": "desktop;workstation;commercial",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/AMD_x_Solidworks_bg.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/AMD_x_Solidworks_900x600px.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "PRO",
+    "title": "Introducing AMD Radeon™ Pro W7000 Series Graphics Cards for workstation professionals and creators",
+    "lnk": "https://www.amd.com/en/graphics/workstations",
+    "tag": "desktop;workstation;commercial",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/AMD_Radeon_PRO_Graphics_bg.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/AMD_Radeon_PRO_Graphics_900x600px.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "RedShift",
+    "title": "Click here to learn more",
+    "lnk": "https://www.amd.com/maxon",
+    "tag": "desktop;workstation;commercial",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/bg_amd_radeon_pro_redshift_2200x900px.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/banner_amd_radeon_pro_redshift_900x600px.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "ShopAMD",
+    "title": "For the latest AMD products, visit the AMD.com store. ",
+    "lnk": "https://shop.amd.com",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/shop_RAD-2200x900-OP1_BG.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/shop-900x388-PROD_Banner.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "Warzone",
+    "title": "Verdansk is back. Play Free Now",
+    "lnk": "https://www.callofduty.com/warzone",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/warzone_banner.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/Transparency_SoftwareBanner_900x600.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "GamerFirst",
+    "title": "THIS IS WHY WE GAME",
+    "lnk": "https://www.amd.com/en/gaming/why-we-game.html",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/243043376-N_25Q3_GF2.0_ROW_SoftwareBanner_2200x900.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/243043376-N_25Q3_GF2.0_ROW_SoftwareBanner_900x600.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "BLOPS7",
+    "title": "Black Ops 7 - Get the Info Now",
+    "lnk": "https://www.callofduty.com/blackops7",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/BLOPS7_AdrenalinBanner.png",
+    "logo_img": "https://download.amd.com/cccads/images/Transparency_SoftwareBanner_900x600.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "heckisus",
+    "title": "Hell is Us is Now Available with AMD FSR 4",
+    "lnk": "https://store.steampowered.com/agecheck/app/1620730/",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/Hell-is-Us_Adrenalin_Banner.png",
+    "logo_img": "https://download.amd.com/cccads/images/Transparency_SoftwareBanner_900x600.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "Voicemod",
+    "title": "Download Voicemod and Be Anyone You Want to Be",
+    "lnk": "https://www.voicemod.net/?utm_source=amd&utm_medium=partnership&utm_campaign=download-vm-adrenaline-banner",
+    "tag": "desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/Voicemod-KV.png",
+    "logo_img": "https://download.amd.com/cccads/images/Transparency_SoftwareBanner_900x600.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  }
+]

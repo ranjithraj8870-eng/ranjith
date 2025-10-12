@@ -1,0 +1,272 @@
+2025-09-23::18:53:43::952	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2025-09-23::18:53:43::952	GetEligibleDriverDetailsSize                      :58  		Get eligible drivers Size started---------------------
+
+2025-09-23::18:53:43::952	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2025-09-23::18:53:43::955	performNewComponentsJsonDownload                  :2291	DEBUG	Successfully waited for new data
+
+2025-09-23::18:53:43::955	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2025-09-23::18:53:43::955	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2025-09-23::18:53:43::957	ADDL::checkURLFormat                              :75  	DEBUG	No serverIp is found
+
+2025-09-23::18:53:43::973	ADDL::getURLVersionJSON                           :2401	DEBUG	No Server Ip found
+
+2025-09-23::18:53:43::973	ADDL::getURLVersionJSON                           :2412	DEBUG	No Servertype found
+
+2025-09-23::18:53:43::976	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1815	DEBUG	hconnet - /drivers/installer/json/NewComponents.json
+
+2025-09-23::18:53:43::976	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1825	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 90000 milliseconds: Result = 1 0
+
+2025-09-23::18:53:43::976	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1829	DEBUG	Setting INTERNET_OPTION_SEND_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2025-09-23::18:53:43::976	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1831	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2025-09-23::18:53:44::008	ADDL::isVersionCompatible                         :752 	DEBUG	Inside local version.json parser
+
+2025-09-23::18:53:44::008	ADDL::isVersionCompatible                         :952 	DEBUG	Downloading a file from server: . Download destination: C:\Users\ReNju.RJ\AppData\Local//AMD_Common//addl_details.json
+
+2025-09-23::18:53:44::008	ADDL::isVersionCompatible                         :1157	DEBUG	 addl version : 1.000000  --- dll has 1.000000 
+
+2025-09-23::18:53:44::008	ADDL::validateInput                               :226 	DEBUG	 common library version  is compatible 
+
+2025-09-23::18:53:44::008	ADDL::fillBuildInfoDetails                        :131 	DEBUG	Entered fillBuildInfo function to get the system and build details
+
+2025-09-23::18:53:44::008	GetEligibleDriverDetailsSize                      :78  	DEBUG	BuildInfo details : is_consumer - 1, is_workstation - 0, is_win10 - 1, is_win7 - 0, is_legacy_eligible - 0,   isIcafe - 0, isFalcon - 0
+
+2025-09-23::18:53:44::017	GetEligibleDriverDetailsSize                      :103 	DEBUG	System has ASIC 1506 C2 8B2F 103C - 24.10.20-240614a-405966C-HP - 0 0
+
+2025-09-23::18:53:44::017	GetEligibleDriverDetailsSize                      :357 		INSIDE CONSUMER
+
+2025-09-23::18:53:44::043	ADDL::ParseJSONfile                               :386 	DEBUG	file under checking C:\Users\ReNju.RJ\AppData\Local//AMD_Common//DrvDldDetails_Consumer_WHQL_Win10_p.json
+
+2025-09-23::18:53:44::043	ADDL::checkDownloadAccelaratorEligibility         :2566	DEBUG	Download Acceleration is eligible since the physical disk is an SSD and the CPU core count is >= 4
+
+2025-09-23::18:53:44::885	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1868	DEBUG	Filesize of NewComponents.json is 25744. Modified 2025-07-08 14:17:19.000 UTC
+
+2025-09-23::18:53:44::910	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1904	DEBUG	Filesize of NewComponents.json is 25744. Modified 2025-07-08 14:17:19.000 UTC
+
+2025-09-23::18:53:44::910	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1908	DEBUG	Cached file up to date
+
+2025-09-23::18:53:44::933	IsSmartBlurAvailableIMPL                          :2459		CheckIfToolIsAvaliable for AMD PrivacyView
+
+2025-09-23::18:53:44::933	AdditionalApplications::CheckIfToolIsAvaliable    :703 		Check for display driver: 24 10 20 0
+
+2025-09-23::18:53:44::933	AdditionalApplications::CheckIfToolIsAvaliable    :704 		min required driver: 22 10 0 0
+
+2025-09-23::18:53:44::933	AdditionalApplications::CheckIfToolIsAvaliable    :705 		max required driver: 99 99 65535 65535
+
+2025-09-23::18:53:44::937	AdditionalApplications::CheckIfToolIsAvaliable    :733 	DEBUG	Found supported device for AMD Privacy View: 1002 1506 C2 8B2F103C
+
+2025-09-23::18:53:44::937	AdditionalApplications::CheckIfToolIsAvaliable    :755 		Latest AMD Privacy View = 1.2.1.0
+
+2025-09-23::18:53:44::938	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2025-09-23::18:53:44::938	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2025-09-23::18:53:44::940	performNewComponentsJsonDownload                  :2291	DEBUG	Successfully waited for new data
+
+2025-09-23::18:53:44::940	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2025-09-23::18:53:44::940	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2025-09-23::18:53:44::941	ADDL::checkURLFormat                              :75  	DEBUG	No serverIp is found
+
+2025-09-23::18:53:44::941	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1815	DEBUG	hconnet - /drivers/installer/json/NewComponents.json
+
+2025-09-23::18:53:44::941	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1825	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 90000 milliseconds: Result = 1 0
+
+2025-09-23::18:53:44::941	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1829	DEBUG	Setting INTERNET_OPTION_SEND_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2025-09-23::18:53:44::941	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1831	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2025-09-23::18:53:45::004	ADDL::updateDriverInfo                            :576 	DEBUG	Deviceidcheck---success
+
+2025-09-23::18:53:45::004	ADDL::updateDriverInfo                            :579 	DEBUG	consumer assigned recognised
+
+2025-09-23::18:53:45::007	ADDL::constructDeploymentAcceleratorPatchURL      :662 	DEBUG	No serverIp is found
+
+2025-09-23::18:53:45::010	ADDL::checkHeaderResponseCode                     :624 	DEBUG	hconnet - /drivers/installer/Patch/amd-software-adrenalin-edition-25.8.1-4C869779-980099F5.exe
+
+2025-09-23::18:53:45::127	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1868	DEBUG	Filesize of NewComponents.json is 25744. Modified 2025-07-08 14:17:19.000 UTC
+
+2025-09-23::18:53:45::127	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1904	DEBUG	Filesize of NewComponents.json is 25744. Modified 2025-07-08 14:17:19.000 UTC
+
+2025-09-23::18:53:45::128	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1908	DEBUG	Cached file up to date
+
+2025-09-23::18:53:45::147	IsSmartBlurAvailableIMPL                          :2459		CheckIfToolIsAvaliable for AMD PrivacyView
+
+2025-09-23::18:53:45::147	AdditionalApplications::CheckIfToolIsAvaliable    :703 		Check for display driver: 24 10 20 0
+
+2025-09-23::18:53:45::147	AdditionalApplications::CheckIfToolIsAvaliable    :704 		min required driver: 22 10 0 0
+
+2025-09-23::18:53:45::148	AdditionalApplications::CheckIfToolIsAvaliable    :705 		max required driver: 99 99 65535 65535
+
+2025-09-23::18:53:45::150	AdditionalApplications::CheckIfToolIsAvaliable    :733 	DEBUG	Found supported device for AMD Privacy View: 1002 1506 C2 8B2F103C
+
+2025-09-23::18:53:45::150	AdditionalApplications::CheckIfToolIsAvaliable    :755 		Latest AMD Privacy View = 1.2.1.0
+
+2025-09-23::18:53:45::799	ADDL::constructDeploymentAcceleratorPatchURL      :720 		No deployment accelerated build found for amd-software-adrenalin-edition-25.8.1-4C869779-980099F5.exe. Status code returned: 404
+
+2025-09-23::18:53:45::799	ADDL::updateDriverInfo                            :616 	DEBUG	DEVICE 1506-C2 is  eligible for driver to 25.10.25.01-250724a-417878C-AMD-Software-Adrenalin-Edition 
+
+2025-09-23::18:53:45::800	ADDL::fillDriverInfoDetails                       :284 	DEBUG	Successfully downloaded the JSON file
+
+2025-09-23::18:53:45::800	GetEligibleDriverDetailsSize                      :509 	DEBUG	Get eligible drivers size function ended
+
+2025-09-23::18:53:45::800	GetEligibleDriverDetails                          :551 	DEBUG	Get eligible drivers started
+
+2025-09-23::18:53:45::800	GetEligibleDriverDetails                          :561 	DEBUG	Get eligible drivers function ended
+
+2025-09-23::18:53:46::798	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2025-09-23::18:53:46::798	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2025-09-23::18:53:46::800	performNewComponentsJsonDownload                  :2291	DEBUG	Successfully waited for new data
+
+2025-09-23::18:53:46::801	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2025-09-23::18:53:46::801	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2025-09-23::18:53:46::801	ADDL::checkURLFormat                              :75  	DEBUG	No serverIp is found
+
+2025-09-23::18:53:46::801	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1815	DEBUG	hconnet - /drivers/installer/json/NewComponents.json
+
+2025-09-23::18:53:46::801	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1825	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 90000 milliseconds: Result = 1 0
+
+2025-09-23::18:53:46::801	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1829	DEBUG	Setting INTERNET_OPTION_SEND_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2025-09-23::18:53:46::801	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1831	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2025-09-23::18:53:47::013	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1868	DEBUG	Filesize of NewComponents.json is 25744. Modified 2025-07-08 14:17:19.000 UTC
+
+2025-09-23::18:53:47::014	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1904	DEBUG	Filesize of NewComponents.json is 25744. Modified 2025-07-08 14:17:19.000 UTC
+
+2025-09-23::18:53:47::014	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1908	DEBUG	Cached file up to date
+
+2025-09-23::18:53:47::029	IsSmartBlurAvailableIMPL                          :2459		CheckIfToolIsAvaliable for AMD PrivacyView
+
+2025-09-23::18:53:47::029	AdditionalApplications::CheckIfToolIsAvaliable    :703 		Check for display driver: 24 10 20 0
+
+2025-09-23::18:53:47::029	AdditionalApplications::CheckIfToolIsAvaliable    :704 		min required driver: 22 10 0 0
+
+2025-09-23::18:53:47::030	AdditionalApplications::CheckIfToolIsAvaliable    :705 		max required driver: 99 99 65535 65535
+
+2025-09-23::18:53:47::032	AdditionalApplications::CheckIfToolIsAvaliable    :733 	DEBUG	Found supported device for AMD Privacy View: 1002 1506 C2 8B2F103C
+
+2025-09-23::18:53:47::032	AdditionalApplications::CheckIfToolIsAvaliable    :755 		Latest AMD Privacy View = 1.2.1.0
+
+2025-09-23::18:53:47::033	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2025-09-23::18:53:47::033	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2025-09-23::18:53:47::034	performNewComponentsJsonDownload                  :2291	DEBUG	Successfully waited for new data
+
+2025-09-23::18:53:47::034	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2025-09-23::18:53:47::034	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2025-09-23::18:53:47::035	ADDL::checkURLFormat                              :75  	DEBUG	No serverIp is found
+
+2025-09-23::18:53:47::035	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1815	DEBUG	hconnet - /drivers/installer/json/NewComponents.json
+
+2025-09-23::18:53:47::035	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1825	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 90000 milliseconds: Result = 1 0
+
+2025-09-23::18:53:47::035	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1829	DEBUG	Setting INTERNET_OPTION_SEND_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2025-09-23::18:53:47::035	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1831	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2025-09-23::18:53:47::308	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1868	DEBUG	Filesize of NewComponents.json is 25744. Modified 2025-07-08 14:17:19.000 UTC
+
+2025-09-23::18:53:47::308	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1904	DEBUG	Filesize of NewComponents.json is 25744. Modified 2025-07-08 14:17:19.000 UTC
+
+2025-09-23::18:53:47::308	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1908	DEBUG	Cached file up to date
+
+2025-09-23::18:53:47::324	IsSmartBlurAvailableIMPL                          :2459		CheckIfToolIsAvaliable for AMD PrivacyView
+
+2025-09-23::18:53:47::324	AdditionalApplications::CheckIfToolIsAvaliable    :703 		Check for display driver: 24 10 20 0
+
+2025-09-23::18:53:47::324	AdditionalApplications::CheckIfToolIsAvaliable    :704 		min required driver: 22 10 0 0
+
+2025-09-23::18:53:47::324	AdditionalApplications::CheckIfToolIsAvaliable    :705 		max required driver: 99 99 65535 65535
+
+2025-09-23::18:53:47::326	AdditionalApplications::CheckIfToolIsAvaliable    :733 	DEBUG	Found supported device for AMD Privacy View: 1002 1506 C2 8B2F103C
+
+2025-09-23::18:53:47::326	AdditionalApplications::CheckIfToolIsAvaliable    :755 		Latest AMD Privacy View = 1.2.1.0
+
+2025-09-23::18:54:13::931	GetEligibleDriverDetailsSize                      :58  		Get eligible drivers Size started---------------------
+
+2025-09-23::18:54:13::931	ADDL::getURLVersionJSON                           :2401	DEBUG	No Server Ip found
+
+2025-09-23::18:54:13::931	ADDL::getURLVersionJSON                           :2412	DEBUG	No Servertype found
+
+2025-09-23::18:54:13::931	ADDL::validateInput                               :218 	DEBUG	 created the directoryC:\Users\ReNju.RJ\AppData\Local//AMD_Common//
+
+2025-09-23::18:54:13::947	ADDL::isVersionCompatible                         :752 	DEBUG	Inside local version.json parser
+
+2025-09-23::18:54:13::947	ADDL::isVersionCompatible                         :952 	DEBUG	Downloading a file from server: . Download destination: C:\Users\ReNju.RJ\AppData\Local//AMD_Common//addl_details_latest.json
+
+2025-09-23::18:54:13::947	ADDL::checkURLFormat                              :75  	DEBUG	No serverIp is found
+
+2025-09-23::18:54:13::947	ADDL::downloadFileFromInternet                    :1571	DEBUG	Downloading a file from server: drivers.amd.com. Download destination: C:\Users\ReNju.RJ\AppData\Local//AMD_Common//addl_details_latest.json
+
+2025-09-23::18:54:13::947	downloadFileFromInternetIMPL                      :1453	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 90000 milliseconds: Result = 1 0
+
+2025-09-23::18:54:13::947	downloadFileFromInternetIMPL                      :1457	DEBUG	Setting INTERNET_OPTION_SEND_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2025-09-23::18:54:13::947	downloadFileFromInternetIMPL                      :1459	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2025-09-23::18:54:14::398	downloadFileFromInternetIMPL                      :1541	DEBUG	Completed download. Total bytes downloaded: 3057
+
+2025-09-23::18:54:14::432	ADDL::isVersionCompatible                         :1157	DEBUG	 addl version : 1.000000  --- dll has 1.000000 
+
+2025-09-23::18:54:14::432	ADDL::validateInput                               :226 	DEBUG	 common library version  is compatible 
+
+2025-09-23::18:54:14::432	ADDL::fillBuildInfoDetails                        :131 	DEBUG	Entered fillBuildInfo function to get the system and build details
+
+2025-09-23::18:54:14::432	GetEligibleDriverDetailsSize                      :78  	DEBUG	BuildInfo details : is_consumer - 1, is_workstation - 0, is_win10 - 1, is_win7 - 0, is_legacy_eligible - 0,   isIcafe - 0, isFalcon - 0
+
+2025-09-23::18:54:14::435	GetEligibleDriverDetailsSize                      :103 	DEBUG	System has ASIC 1506 C2 8B2F 103C - 24.10.20-240614a-405966C-HP - 0 0
+
+2025-09-23::18:54:14::435	GetEligibleDriverDetailsSize                      :357 		INSIDE CONSUMER
+
+2025-09-23::18:54:14::435	ADDL::fillDriverInfoDetails                       :275 	DEBUG	Failed downlaod to parse  file  25.10.25.01-250724a-417878C-AMD-Software-Adrenalin-Edition-25.10.25.10-250825a-418637C-AMD-Software-Adrenalin-Edition 
+
+2025-09-23::18:54:14::439	ADDL::downloadJSONFile                            :348 	DEBUG	Internal version mismatch to due partial download internalversion-25.10.25.01-latestVersion-25.10.25.10 
+
+2025-09-23::18:54:14::439	ADDL::checkURLFormat                              :75  	DEBUG	No serverIp is found
+
+2025-09-23::18:54:14::439	ADDL::downloadFileFromInternet                    :1571	DEBUG	Downloading a file from server: www2.ati.com. Download destination: C:\Users\ReNju.RJ\AppData\Local//AMD_Common//DrvDldDetails_Consumer_WHQL_Win10_p.json
+
+2025-09-23::18:54:14::439	downloadFileFromInternetIMPL                      :1453	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 90000 milliseconds: Result = 1 0
+
+2025-09-23::18:54:14::439	downloadFileFromInternetIMPL                      :1457	DEBUG	Setting INTERNET_OPTION_SEND_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2025-09-23::18:54:14::439	downloadFileFromInternetIMPL                      :1459	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2025-09-23::18:54:14::806	downloadFileFromInternetIMPL                      :1541	DEBUG	Completed download. Total bytes downloaded: 7286
+
+2025-09-23::18:54:14::808	ADDL::ParseJSONfile                               :386 	DEBUG	file under checking C:\Users\ReNju.RJ\AppData\Local//AMD_Common//DrvDldDetails_Consumer_WHQL_Win10_p.json
+
+2025-09-23::18:54:15::024	ADDL::updateDriverInfo                            :576 	DEBUG	Deviceidcheck---success
+
+2025-09-23::18:54:15::024	ADDL::updateDriverInfo                            :579 	DEBUG	consumer assigned recognised
+
+2025-09-23::18:54:15::024	ADDL::constructDeploymentAcceleratorPatchURL      :662 	DEBUG	No serverIp is found
+
+2025-09-23::18:54:15::024	ADDL::checkHeaderResponseCode                     :624 	DEBUG	hconnet - /drivers/installer/Patch/amd-software-adrenalin-edition-25.9.1-4C869779-980099F5.exe
+
+2025-09-23::18:54:15::393	ADDL::constructDeploymentAcceleratorPatchURL      :720 		No deployment accelerated build found for amd-software-adrenalin-edition-25.9.1-4C869779-980099F5.exe. Status code returned: 404
+
+2025-09-23::18:54:15::393	ADDL::updateDriverInfo                            :616 	DEBUG	DEVICE 1506-C2 is  eligible for driver to 25.10.25.10-250825a-418637C-AMD-Software-Adrenalin-Edition 
+
+2025-09-23::18:54:15::407	ADDL::fillDriverInfoDetails                       :284 	DEBUG	Successfully downloaded the JSON file
+
+2025-09-23::18:54:15::407	GetEligibleDriverDetailsSize                      :509 	DEBUG	Get eligible drivers size function ended
+
+2025-09-23::18:54:15::407	GetEligibleDriverDetails                          :551 	DEBUG	Get eligible drivers started
+
+2025-09-23::18:54:15::407	GetEligibleDriverDetails                          :561 	DEBUG	Get eligible drivers function ended
+
